@@ -1,0 +1,11 @@
+com\omesh\movies\ReviewService.class
+com\omesh\movies\Movie.class
+com\omesh\movies\ReviewController.class
+com\omesh\movies\MoviesApplication.class
+com\omesh\movies\MovieRepository.class
+com\omesh\movies\Review.class
+com\omesh\movies\ReviewRepository.class
+com\omesh\movies\CORSConfig.class
+com\omesh\movies\MovieService.class
+com\omesh\movies\MovieController.class
+com\omesh\movies\CORSConfig$1.class
